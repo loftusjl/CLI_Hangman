@@ -1,0 +1,25 @@
+{
+  "name": "CLI_Hangman",
+  "version": "1.0.0",
+  "description": "NodeJS Hangman Game",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loftusjl/CLI_Hangman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loftusjl/CLI_Hangman/issues"
+  },
+  "homepage": "https://github.com/loftusjl/CLI_Hangman#readme"
+}
